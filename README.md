@@ -17,3 +17,9 @@ Kivy
 Kivymd
 
 ![image](https://user-images.githubusercontent.com/69067790/156915515-1b2fe113-5206-4594-bd59-437572752184.png)
+
+![image](https://user-images.githubusercontent.com/69067790/156915525-32633a8c-6d4a-488f-b4cb-7d3af8e6c122.png)
+
+![image](https://user-images.githubusercontent.com/69067790/156915534-c6e2bb99-7edb-4a8a-9f51-30221fd36e1a.png)
+
+
