@@ -5,8 +5,10 @@
  There are two versions in this project,one is a simple calculator with basic Arithmetic operators(+,-,/,*)
  
  Another one is a complex one which includes all the other functions like trignometric,exponential and logarithimic functions
- 
+ It can run in android once we build the app using buildozer and deploy it on our device or by installing the apk it generates
  We enjoyed participating in this hackathon as it was the first time learning app development for us.
+ 
+
  
  Video Demonstration link:https://drive.google.com/file/d/1C7J4bMfPOIBD0efVES4Bb56FfE4LnhrD/view?usp=sharing
 
